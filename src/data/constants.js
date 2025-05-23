@@ -2,7 +2,6 @@ export const Bio = {
   name: "Sajid Ansari",
   roles: [
     "Full Stack Developer",
-    "Android Developer",
     "UI/UX Designer",
     "Programmer",
   ],
