@@ -253,7 +253,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "http://idoxd69.sufydely.com/ssbam1.png",
     school: "Shri Sai Baba Aadarsh Mahavidyalaya,Digma",
     date: "July 2022 - April 2025",
     grade: ".....",
