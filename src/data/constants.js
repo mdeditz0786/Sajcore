@@ -167,7 +167,6 @@ export const experiences = [
     img: "https://github.com/mdeditz0786/Sajcore/blob/main/src/images/Husain%20(1).png?raw=true",
     role: "Fullstack Developer",
     company: "sdhusain4u",
-    webapp: "https://tinyurl.com/w442e5r4",
     date: "Jan 2023 - Present",
     desc: "Developed a responsive and dynamic blog website using WordPress with custom HTML, CSS, and JavaScript enhancements.",
     skills: [
@@ -177,6 +176,7 @@ export const experiences = [
       "JavaScript",
     
     ],
+    webapp: "https://tinyurl.com/w442e5r4",
   },
 
 ];
