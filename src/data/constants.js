@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/mdeditz0786",
   resume:
-    "https://github.com/mdeditz0786",
+    "https://drive.google.com/file/d/1J_RoXwyXFqjy28gTRDQlUXo--TZ3E-uV/view?usp=sharing",
   linkedin: "https://github.com/mdeditz0786",
   twitter: "https://github.com/mdeditz0786",
   insta: "https://github.com/mdeditz0786",
@@ -213,6 +213,25 @@ export const education = [
 
 export const projects = [
   {
+    id: 9,
+    title: "Students ID Crad Generator",
+    date: "Aug 2024 - Mar 2025",
+    description:
+      "This web application allows educational institutions to generate and manage digital student ID cards efficiently. The platform provides a user-friendly interface to input student details, upload photos, and instantly generate printable ID cards.",
+    image:
+      "http://idoxd69.sufydely.com/ID.JPG",
+    tags: [
+      "Next.js",
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+    ],
+    category: "web app",
+    github: "https://tinyurl.com/2wdf76wm",
+    webapp: "https://tinyurl.com/w442e5r4",
+  },
+   {
     id: 9,
     title: "Students ID Crad Generator",
     date: "Aug 2024 - Mar 2025",
