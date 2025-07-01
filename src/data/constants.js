@@ -151,18 +151,13 @@ export const experiences = [
     role: "Frontend Developer Intern",
     company: "CodeAlpha",
     date: "May 2025 - Jun 2025",
-    desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+    desc: "Worked as a Frontend Developer Intern at CodeAlpha, where I contributed to designing and developing responsive, user-friendly web interfaces using modern web technologies.",
     skills: [
-      "Docker",
-      "Terraform",
-      "AWS",
-      "EC2",
-      "Portainer",
-      "Nginx",
+      "HTML",
+      "CSS",
       "JavaScript",
-      "TypeScript",
-      "Node Js",
-      " Next Js",
+    
+  
     ],
     doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
