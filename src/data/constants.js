@@ -10,7 +10,7 @@ export const Bio = {
   github: "https://github.com/mdeditz0786",
   resume:
     "https://drive.google.com/file/d/1J_RoXwyXFqjy28gTRDQlUXo--TZ3E-uV/view?usp=sharing",
-  linkedin: "https://github.com/mdeditz0786",
+  linkedin: "https://www.linkedin.com/in/sajid-ansari-797306304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   twitter: "https://github.com/mdeditz0786",
   insta: "https://github.com/mdeditz0786",
   facebook: "https://github.com/mdeditz0786",
